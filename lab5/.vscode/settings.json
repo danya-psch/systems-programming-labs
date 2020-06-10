@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "layer4.h": "c",
+        "layer3.h": "c",
+        "unistd.h": "c",
+        "string.h": "c",
+        "layer2.h": "c",
+        "layer1.h": "c",
+        "gen_crc16.h": "c"
+    }
+}
