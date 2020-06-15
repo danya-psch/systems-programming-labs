@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -g -ggdb -O0   CMakeFiles/lab6.dir/main.c.o CMakeFiles/lab6.dir/src/config.c.o CMakeFiles/lab6.dir/src/connection.c.o CMakeFiles/lab6.dir/src/connection_queue.c.o CMakeFiles/lab6.dir/src/handle.c.o CMakeFiles/lab6.dir/src/http_request.c.o CMakeFiles/lab6.dir/src/thread_pool.c.o  -o lab6 -lpthread 
